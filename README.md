@@ -5,7 +5,7 @@
 - 💞️ I enjoy building **real-world, research-driven AI systems** and collaborating on innovative projects
 - 🚀 Passionate about converting **complex AI concepts into practical, scalable solutions**
 ---
-<sub>
+<small>
 
 ## 🧠 My Attitude Towards Technology
 
@@ -13,7 +13,7 @@ Technology excites me because of its vast and ever-evolving nature.
 Each project I work on teaches me something new and reveals how much more there is to learn.  
 I strongly believe that **learning by building** and **sharing knowledge** are the best ways to grow.
 
-</sub>
+</small>
 
 ## 🎓 Academic Background
 
