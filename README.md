@@ -21,22 +21,6 @@ I strongly believe that **learning by building** and **sharing knowledge** are t
   MIT ADT University, School of Computing
 - 📚 Core interests: **AI/ML, Computer Vision, NLP, Information Retrieval**
 - 🧪 Experience with **research-oriented and internship-driven projects**
----
-## 🔬 Key Projects & Work
-
-- 🏥 **OCR-Based Medical Insurance Claim Verification**  
-  Document text extraction using PaddleOCR, EasyOCR, and Tesseract with rule-based validation and LLM reasoning (ICD-11).
-
-- 🤖 **Fake Claim & Fake Document Detection System**  
-  Combined OCR, database validation, and LLaMA fine-tuned models to classify real vs fake claims.
-
-- 📄 **Retrieval-Augmented Generation (RAG) Pipeline**  
-  PDF parsing with page-level citations using FAISS, LangChain, and LLMs.
-
-- 🧠 **Agentic AI Systems**
-  - *MyHealth Advocate*: Multi-agent health insurance verification and wellness advisory system  
-  - *AgriAgentNet*: Smart farming advisory system with CV, weather APIs, and RAG-based market intelligence
----
 ## 🛠 Languages and Tools
 
 ### 👩‍💻 Programming & Core Skills
