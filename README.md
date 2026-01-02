@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @SamruddhiRasal
 
 - 👀 I'm interested in **Artificial Intelligence, Machine Learning, Computer Vision, and NLP**
-- 🌱 I'm currently working on **OCR-based Document Intelligence, RAG pipelines, and LLM fine-tuning (LoRA, LLaMA)**
+- 🌱 I'm currently working on **OCR-based Document Intelligence, RAG pipelines, and LLM fine-tuning**
 - 💞️ I enjoy building **real-world, research-driven AI systems** and collaborating on innovative projects
 - 🚀 Passionate about converting **complex AI concepts into practical, scalable solutions**
 ---
