@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @SamruddhiRasal
+# 👋 Hi, I'm SamruddhiRasal
 
 - 👀 I'm interested in **Artificial Intelligence, Machine Learning, Computer Vision, and NLP**
 - 🌱 I'm currently working on **OCR-based Document Intelligence, RAG pipelines, and LLM fine-tuning**
