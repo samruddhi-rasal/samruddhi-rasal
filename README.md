@@ -1,4 +1,9 @@
 # 👋 Hi, I'm SamruddhiRasal
+# 👋 Hi, I'm SamruddhiRasal
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=700&lines=AI+%7C+Machine+Learning+%7C+Computer+Vision;NLP+%7C+OCR+%7C+RAG+Pipelines;Agentic+AI+%7C+LLM+Fine-Tuning;Streamlit+%7C+Node.js+%7C+Express.js" alt="Typing SVG" />
+</p>
 
 - 👀 I'm interested in **Artificial Intelligence, Machine Learning, Computer Vision, and NLP**
 - 🌱 I'm currently working on **OCR-based Document Intelligence, RAG pipelines, and LLM fine-tuning**
