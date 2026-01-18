@@ -32,6 +32,7 @@ I strongly believe that **learning by building** and **sharing knowledge** are t
 ### 🌐 Backend & Server-Side
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ---
 
 ### 🤖 AI / ML / LLM Stack
