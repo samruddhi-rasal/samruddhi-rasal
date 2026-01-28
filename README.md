@@ -21,35 +21,28 @@ I strongly believe that **learning by building** and **sharing knowledge** are t
   MIT ADT University, School of Computing
 - 📚 Core interests: **AI/ML, Computer Vision, NLP, Information Retrieval**
 - 🧪 Experience with **research-oriented and internship-driven projects**
-## 🛠 Languages and Tools
 
 ### 👩‍💻 Languages Tools & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
----
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
----
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-3C3C3C?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
----
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=for-the-badge)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-FF0000?style=for-the-badge)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-00B894?style=for-the-badge)
----
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-1F6FEB?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge)
 ![Multi--Agent_Systems](https://img.shields.io/badge/Multi--Agent_Systems-6C3483?style=for-the-badge)
----
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
----
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
